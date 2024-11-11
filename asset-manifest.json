@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Docentes.git/static/css/main.9a5c6096.css",
-    "main.js": "/Docentes.git/static/js/main.3b265194.js",
-    "static/js/453.2accbebf.chunk.js": "/Docentes.git/static/js/453.2accbebf.chunk.js",
-    "static/media/logo.svg": "/Docentes.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Docentes.git/index.html",
-    "main.9a5c6096.css.map": "/Docentes.git/static/css/main.9a5c6096.css.map",
-    "main.3b265194.js.map": "/Docentes.git/static/js/main.3b265194.js.map",
-    "453.2accbebf.chunk.js.map": "/Docentes.git/static/js/453.2accbebf.chunk.js.map"
+    "main.css": "/Docentes/static/css/main.9a5c6096.css",
+    "main.js": "/Docentes/static/js/main.135a051d.js",
+    "static/js/453.2accbebf.chunk.js": "/Docentes/static/js/453.2accbebf.chunk.js",
+    "static/media/logo.svg": "/Docentes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Docentes/index.html",
+    "main.9a5c6096.css.map": "/Docentes/static/css/main.9a5c6096.css.map",
+    "main.135a051d.js.map": "/Docentes/static/js/main.135a051d.js.map",
+    "453.2accbebf.chunk.js.map": "/Docentes/static/js/453.2accbebf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a5c6096.css",
-    "static/js/main.3b265194.js"
+    "static/js/main.135a051d.js"
   ]
 }
