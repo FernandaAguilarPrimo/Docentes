@@ -1,14 +1,15 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
-import ListaDocentes from './trabajadores/Docentes';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import reportWebVitals from "./reportWebVitals";
+import Calificaciones from "./trabajadores/Calificaciones";
+import ListaDocentes from "./trabajadores/Docentes";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <ListaDocentes/>
+    <ListaDocentes />
+    <Calificaciones />
   </React.StrictMode>
 );
 
